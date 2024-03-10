@@ -42,7 +42,6 @@ body{
 {
     font-size: 55px;
     font-family: 'Raleway', sans-serif;
-    border-bottom: 5px rgb(29, 26, 212) solid;
 }
 .head .main  span:nth-child(2)
 {
@@ -50,7 +49,6 @@ body{
     font-size: 55px;
     font-family: 'Raleway', sans-serif;
     margin-left: 5px;
-    border-bottom: 5px rgb(29, 26, 212) solid;
 }
 .head .main .post
 {
@@ -102,7 +100,7 @@ font-family: 'Barlow', sans-serif;
     font-size: 18px;
     border: none;
     padding-bottom: 3px;
-    border-bottom: 5px rgb(29, 26, 212) solid;
+    border-bottom: px rgb(0, 0, 0) solid;
 }
 .skill
 {
